@@ -17,6 +17,7 @@
 代码地址：
 
 1.按照第三部分的pytorch环境搭建(windows版)搭建好pytorch环境
+详见https://zhuanlan.zhihu.com/p/565711690
 
 2.下载CelebA数据集，我把这个数据集放在了我的百度网盘链接方便大家下载
 
