@@ -8,7 +8,7 @@
 
 我们使用流行的CelebA数据集，其中包含202599幅名人脸部的图像。所有图像都经过对齐和裁剪，使眼睛和嘴巴在图像中的大概位置居中。
 
-<img src="深度学习实践入门指南.assets/image-20220918130206545.png" alt="image-20220918130206545" style="zoom: 33%;" />
+<img src="https://user-images.githubusercontent.com/74011275/190902238-e23b980b-d364-4fb7-9840-6410a91ca4df.png" width=700>
 
 关于此数据集的更多描述请见[CelebA数据集详细介绍及其属性提取源代码 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/35975956)
 
